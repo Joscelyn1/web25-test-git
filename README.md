@@ -1,3 +1,5 @@
+# Hello my name is Michelle
+
 # instructions
 1. fork the project
 2. add Joscelyn1 as a collaborator
